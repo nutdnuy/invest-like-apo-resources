@@ -6,7 +6,7 @@
 
 ## สไลด์ประกอบการบรรยาย
 
-[ดาวน์โหลดสไลด์ Invest like อาโป (PDF · 31 หน้า)](slides/invest-like-apo-resources-qr.pdf)
+[ดาวน์โหลดสไลด์ Invest like อาโป (PDF · 32 หน้า)](slides/invest-like-apo-resources-qr.pdf)
 
 ## เริ่มจากตรงนี้
 
