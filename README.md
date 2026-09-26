@@ -4,6 +4,10 @@
 
 ชุด resources ประกอบการบรรยายของ **QuantCorner** สำหรับ **Claude Thailand Community** ตั้งแต่การรับข้อมูล สะสมหลักฐาน วิเคราะห์ด้วยกรอบที่ใช้ซ้ำ ไปจนถึงแสดงผลและบันทึกการตัดสินใจ
 
+## สไลด์ประกอบการบรรยาย
+
+[ดาวน์โหลดสไลด์ Invest like อาโป (PDF · 31 หน้า)](slides/invest-like-apo-resources-qr.pdf)
+
 ## เริ่มจากตรงนี้
 
 1. อ่าน [ภาพรวม workflow](docs/workflow.md) เพื่อเลือกส่วนที่อยากทดลอง
@@ -28,6 +32,7 @@
 | **Input · Data** | [Webull API](https://developer.webull.co.th/apis/docs/) | ข้อมูลตลาดและข้อมูลพื้นฐานตามสิทธิ์ของบัญชีและ endpoint |
 | **Input · Research memory** | [LLM Wiki for Investors](https://github.com/Migchw/llm-wiki-starter) | เก็บต้นฉบับ เชื่อม source notes และสะสมความรู้ที่ย้อนถึงหลักฐานได้ |
 | **Process · Reusable methods** | [Book-to-Skill](https://github.com/virgiliojr94/book-to-skill) | เปลี่ยนเอกสารที่มีสิทธิ์ใช้ให้เป็นกรอบ ขั้นตอน และเอกสารอ้างอิงของ agent |
+| **Process · Agent skills** | [QuantCorner Agent Skills](https://www.quant-corner.com/agent-skills) | แหล่งรวม Agent Skills ของ QuantCorner |
 | **Process · Agent skills** | [Claude Agent Skills](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) | รูปแบบคำสั่งและ resources ที่ agent เรียกใช้ซ้ำเมื่อเกี่ยวข้อง |
 | **Process · Portfolio analytics** | [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) · [Docs](https://riskfolio-lib.readthedocs.io/en/latest/) | คำนวณ portfolio optimization และความเสี่ยงภายใต้สมมติฐานและข้อจำกัด |
 | **Process · Research toolkit** | [AssetManagementToolkit](https://github.com/nutdnuy/AssetManagementToolkit) | วิเคราะห์ผลตอบแทน covariance พอร์ต backtest และ stress test |

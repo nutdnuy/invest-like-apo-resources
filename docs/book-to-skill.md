@@ -3,6 +3,7 @@
 [← Resources](../README.md)
 
 - **Converter:** [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+- **QuantCorner Agent Skills:** [quant-corner.com/agent-skills](https://www.quant-corner.com/agent-skills)
 - **Skill format:** [Claude Agent Skills documentation](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview)
 - **หนังสือและหัวข้ออ่าน:** [Reading list](reading-list.md)
 
